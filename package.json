@@ -1,5 +1,5 @@
 {
-  "name": "number-formatter",
+  "name": "@hemakumark/number-formatter",
   "version": "0.0.1",
   "description": "Simple module for number format",
   "main": "index.js",
