@@ -1,5 +1,8 @@
 Number Formatter
 =========
+[![Build Status](https://travis-ci.org/hemakumark/number-formatter.svg)](https://travis-ci.org/hemakumark/number-formatter)
+
+[![Coverage Status](https://coveralls.io/repos/hemakumark/number-formatter/badge.svg?branch=master&service=github)](https://coveralls.io/github/hemakumark/number-formatter?branch=master)
 
 A small library that adds commas to numbers
 
