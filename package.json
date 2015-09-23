@@ -4,7 +4,8 @@
   "description": "Simple module for number format",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --reporter nyan"
+    "test": "mocha --reporter nyan",
+    "cover": "istanbul cover node_modules/mocha/bin/_mocha -- -R spec test/*"
   },
   "repository": {
     "type": "git",
@@ -25,6 +26,8 @@
   },
   "devDependencies": {
     "chai": "^3.3.0",
+    "coveralls": "^2.11.4",
+    "istanbul": "^0.3.20",
     "mocha": "^2.3.3"
   }
 }
